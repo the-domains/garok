@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GaroK]]></title>
         <description><![CDATA[GaroK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garok/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 17:13:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 17:15:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garok/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c225b7a-8c79-4d26-bd80-8aafe02d32d8.jpg">]]></description>
+            <link>https://thegrid.ai/garok/2833f8c9-ebea-4c80-be5f-1da923b48b59/index.html</link>
+            <guid isPermaLink="false">2833f8c9-ebea-4c80-be5f-1da923b48b59</guid>
+            <pubDate>Sat, 26 Dec 2015 17:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hi there!]]></title>
             <description><![CDATA[<article><h1>Hi there!</h1><p>This is my first post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1525069e340e2cdb49d8b7b89db579db1a2b244f.jpg"></article>]]></description>
-            <link>undefinedhi-there/index.html</link>
+            <link>https://thegrid.ai/garok/hi-there/index.html</link>
             <guid isPermaLink="false">99ff2932-c1a1-4087-808e-1ecf5a0d7efb</guid>
             <pubDate>Sat, 26 Dec 2015 17:13:15 GMT</pubDate>
         </item>
